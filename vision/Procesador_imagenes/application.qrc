@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Imagenes_GUI/copy.png</file>
+        <file>Imagenes_GUI/cut.png</file>
+        <file>Imagenes_GUI/new.png</file>
+        <file>Imagenes_GUI/open.png</file>
+        <file>Imagenes_GUI/paste.png</file>
+        <file>Imagenes_GUI/save.png</file>
+        <file>Imagenes_GUI/icono.ico</file>
+        <file>Imagenes_GUI/saveAs.png</file>
+        <file>Imagenes_GUI/Image.png</file>
+        <file>Imagenes_GUI/info.png</file>
+        <file>Imagenes_GUI/takepic.png</file>
+        <file>Imagenes_GUI/realtime.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
